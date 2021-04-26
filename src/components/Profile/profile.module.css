@@ -1,0 +1,15 @@
+.mt25 {
+    margin-top: 100px;
+}
+
+.formBorder {
+    border: 2px solid #cccccc;
+    border-radius: 5px;
+    padding: 20px;
+    transition: all 0.2s linear;
+
+}
+
+.formBorder:hover {
+    border: 2px solid rgb(75, 164, 255);
+}
